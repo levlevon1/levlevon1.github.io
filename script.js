@@ -1,5 +1,5 @@
 <script>
 function myFunction() {
-  consloe.log("kima kima");
+  console.log("kima kima");
 }
 </script>
