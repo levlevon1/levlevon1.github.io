@@ -1,6 +1,6 @@
 
 <script>
 function myFunction() {
-  console.log("kima kima");
+  document.write("kima kima");
 }
   </script>
