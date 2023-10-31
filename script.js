@@ -1,6 +1,6 @@
 
 <script>
 function myFunction() {
-  document.write("kima kima");
+  consloe.log("kima kima");
 }
   </script>
