@@ -1,5 +1,5 @@
 <script>
 function myFunction() {
-  Console.log("kima kima");
+  Console.log("kima kimla");
 }
 </script>
