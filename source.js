@@ -1,3 +1,3 @@
 function myFunction() {
-  Console.log("kima kimla");
+  console.log("kima kimla");
 }
